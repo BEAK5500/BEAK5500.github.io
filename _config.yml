@@ -130,7 +130,7 @@ author:
       url: "https://x.com/@baipeku"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/@baipeku"
+      # url: "https://x.com/@baipeku"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
