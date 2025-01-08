@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Munseon's Profile"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Munseon Beak"
-description              : "An amazing website."
+description              : "I am a biologist and remote sensing researcher with a focus on utilizing remote sensing to analyze terrestrial carbon cycling, particularly in Asia and Siberia. I am originally from South Korea and earned my bachelor's degree in Life Sciences there. I later pursued a master's degree in Remote Sensing at Chiba University in Japan, where I am currently working toward a Ph.D. in the same field."
 url                      : "https://BEAK5500.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Munseon Beak"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am a biologist and remote sensing researcher with a focus on utilizing remote sensing to analyze terrestrial carbon cycling, particularly in Asia and Siberia. I am originally from South Korea and earned my bachelor's degree in Life Sciences there. I later pursued a master's degree in Remote Sensing at Chiba University in Japan, where I am currently working toward a Ph.D. in the same field."
+  location         : "Japan"
+  email            : "b.munseon100@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
