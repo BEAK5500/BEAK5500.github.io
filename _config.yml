@@ -117,7 +117,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a South Korean who graduated with a bachelor's degree in Life Sciences in Korea. I completed my master's degree in Remote Sensing at Chiba University in Japan, where I am currently pursuing a Ph.D. in the same field."
   location         : "Japan"
-  email            :
+  email            : "b.munseon100@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
