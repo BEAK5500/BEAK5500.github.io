@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Munseon Beak"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/configimages/DSCF0657.jpg"
   bio              : "I am a biologist and remote sensing researcher with a focus on utilizing remote sensing to analyze terrestrial carbon cycling, particularly in Asia and Siberia. I am originally from South Korea and earned my bachelor's degree in Life Sciences there. I later pursued a master's degree in Remote Sensing at Chiba University in Japan, where I am currently working toward a Ph.D. in the same field."
   location         : "Japan"
   email            : "b.munseon100@gmail.com"
